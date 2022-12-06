@@ -52,5 +52,14 @@ export const PROJECTS = [
         link:"https://mattg-git.github.io/05_Third_Party_APIs_Calendar_Application/",
         github: "https://github.com/MattG-Git/05_Third_Party_APIs_Calendar_Application",
         image: "https://github.com/MattG-Git/05_Third_Party_APIs_Calendar_Application/raw/main/Screen_shot.png"
+    },
+    {
+        id: 6,
+        name: "Counting Sheep",
+        subtitle: "MERN | React | MongoDB | GraphQL | Node | Express | Bootstrap Library",
+        description: "This is a full stack React application that a user may create an account, login, track sleep history, receive randomized sleep inspiration.",
+        link:"https://radiant-chamber-76949.herokuapp.com/",
+        github: "https://github.com/MattG-Git/counting_sheep",
+        image: "https://github.com/MattG-Git/counting_sheep/blob/master/client/public/assets/user_dashboard_screenshot.png"
     }
 ];
